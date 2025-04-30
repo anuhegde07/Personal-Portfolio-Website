@@ -21,9 +21,9 @@ Contact – Basic form to get in touch<br>
 
 1. <b>Clone the repository</b><br>
 
-   git clone https://github.com/anuhegde07/Portfolio-Anusha-.git<br>
+   git clone https://github.com/anuhegde07/Personal-Portfolio-Website.git<br>
    
-   cd Portfolio-Anusha-
+   cd Personal-Portfolio-Website
    
 2. <b>Ensure the following files exist in the root directory:</b>
 
